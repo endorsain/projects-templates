@@ -1,0 +1,6 @@
+[submodule "go-api-starter"]
+	path = go-api-starter
+	url = https://github.com/endorsain/go-api-starter.git
+[submodule "flutter-starter"]
+	path = flutter-starter
+	url = https://github.com/endorsain/flutter-starter.git
